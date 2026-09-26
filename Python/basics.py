@@ -8,3 +8,7 @@ people = ['me', 'myself', 'i'] ##list
 characters = ('sasuke', 'gohan') ## tuple
 fav_User = {"password", "cool"} ## dict
 optimal_Fruit = {'bannanas', 'strawberry'} ##set
+
+
+print(" string = ",name, "\n","int = ", number,"\n", "float = ",number_F,"\n", "boolean = ", 
+      truth_Value,"\n", "list = ", people,"\n", "tuple = ", characters,"\n", "dict = ", fav_User,"\n","set = ", optimal_Fruit)
